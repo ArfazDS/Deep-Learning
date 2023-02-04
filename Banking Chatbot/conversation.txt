@@ -1,0 +1,170 @@
+#### Greeting
+- Hello
+-- Good to see you.
+
+#### index action 
+
+-- How can I help you?
+	Savings account
+	Current account
+	Loan enquiry
+	General query
+	Net Banking
+
+#### services action
+
+Do you want to know about some other services?
+	yes
+	no
+
+-- Thank you. Have a nice day.   --No -- Action complete.
+
+#### savings account action
+
+--Which type of savings account do you want to create?
+	Regular savings Account
+	Kids savings Account
+	Zero Balance savings Account
+
+--Great! Please take the following documents and head towards the nearest branch. 
+1) Aadhar Card 
+2) Pan card 
+3) Passport size photos
+
+
+
+--Awesome! Please take the following documents and head towards the nearest branch. 
+1) Aadhar Card 
+2) Pan card 
+3) Passport size photos 
+4) Guardians Aadhar card
+
+
+
+Amazing! Please take the following documents and head towards the nearest branch. 
+1) Aadhar Card 
+2) Pan card 
+3) Passport size photos
+
+
+
+#### Current account action
+
+-- What's your company type?
+	Proprietorship
+	Partnership
+
+-- Please take the following Documents and approach the closest branch. 
+1) Income Tax Returns of the proprietor for the last 3 years 
+2)Company Agreement 
+3) Pan card
+
+
+
+-- Please take the following Documents and approach the closest branch. 
+1) Income Tax Returns of the proprietor for the last 3 years 
+2) Company Agreement 
+3) Pan card of both partners
+
+
+
+#### Loan action
+
+-- What type of loan are you looking at?
+	House loan
+	Gold loan
+	Topup loan
+	Vehicle loan
+	Student loan
+
+-- To be eligible for a house loan please contact our bank service providers with all existing loan details.
+
+
+
+-- Please approach the bank with the following documents. 
+1) Pan card 
+2) Aadhar Card 
+3) Passport Size photo
+
+
+
+-- To be eligible for a top-up loan please contact our bank service providers with all existing loan details.
+
+
+
+-- Kindly approach the bank with the following documents. 
+1) Automobile Invoice 
+2) Pan card 
+3) Income Tax Returns for the last three years
+
+
+Please approach the bank with the following documents. 
+1) Acceptance Letter from Institution 
+2) Pan card 
+3) Passport size photos
+
+
+#### Net Banking
+
+-- What queries do you have regarding Netbanking?
+	What is Net Banking?
+	How do I register for Net Banking?
+	what are the features of Net Banking?
+	Facing errors in Net Banking
+
+-- The facility offered by the bank allows customers to use banking services over the internet. Customers need not visit their bank’s branch office to avail each and every small service.
+
+
+
+-- Please download and fill up the net banking requisition form and submit it to your home branch.
+
+
+
+-- 1) Check the account statement online. 
+2) Open a fixed deposit account.
+3) Pay utility bills such as water bills and electricity bills. 
+4) Make merchant payments. 
+5) Transfer funds. 
+6) Order a cheque book. 
+7) Buy general insurance.
+8) Recharge prepaid mobile/DTH.
+
+
+
+Please contact our customer care executive or approach the closest branch.
+
+
+
+#### Queries
+
+-- Select the general queries listed below.
+	Bank Working Days
+	List of Branches
+	Storage Locker Facility
+	Currency Conversion Facility
+	CIBIL
+	Find a nearest branch
+
+-- The bank is open all days from Monday to Saturday from 9 am to 3 pm, with exception of 2nd Saturdays.
+
+
+
+-- ADAMBAKKAM, ADYAR, ADYAR GANDHI NAGAR, AKKARAI, ALWARPET, ANNANAGAR  VASANATHAM COLONY BRANCH, ANNA NAGAR  WEST, ARCOT ROAD KODAMBAKAM, ARUMBAKKAM, ASCENDAS TARAMANI, AYANAVARAM, AYYAPPANTHANGAL, BESANT NAGAR CHENNAI, CHENNAI  ANNA NAGAR, CHENNAI  ANNA NAGAR 3RD AVENUE, CHENNAI  ASHOK NAGAR, CHENNAI  CREDIT CARD OPERATIONS, CHENNAI  GOPALAPURAM, CHENNAI  ITC CENTRE  ANNA SALAI, CHENNAI  KILPAUK, CHENNAI  MADIPAKKAM, CHENNAI  MYLAPORE, CHENNAI  NANGANALLUR, CHENNAI  NELSON MANICKAM ROAD, CHENNAI  NUNGAMBAKKAM, CHENNAI  PARRYS CORNER, CHENNAI  PATTABIRAM, CHENNAI  PERUNGUDI, CHENNAI  POONAMALLEE, CHENNAI  PORUR, CHENNAI  R A PURAM, CHENNAI  THIRUVANMIYUR, CHENNAI  T NAGAR, CHENNAI  VALSARAVAKKAM, CHENNAI  VELACHERY, CHENNAI  WASHERMENPET, CHENNAI  WEST MAMBALAM, CHINMAYA NAGAR VIRUGAMPAKAM, CHITLAPAKKAM, CIT NAGAR, DLF RAMAPURAM, EAST ABIRAMAPURAM, EGMORE BRANCH, II AVENUE, KARAPAKKAM, KK NAGAR, KORATTUR, KOTTIVAKKAM, KOTTURPURAM, KOYAMBEDU  CHENNAI, MADAMBAKKAM
+
+
+
+-- Banks, as part of their due diligence process, gauge the creditworthiness of individuals based on credit scores. The information listed on your credit report includes several variables that CIBIL uses to set your credit score. CIBIL score, therefore, reflects the extent of the probability of default. An individual's credit history is submitted to CIBIL by banks and financial institutions on a monthly basis.
+
+
+
+-- All our bank Branches have a forex Exchange facility.
+
+
+
+-- ADYAR, ADYAR GANDHI NAGAR, AKKARAI, ALWARPET, ANNANAGAR = VASANATHAM COLONY BRANCH, ANNA NAGAR - WEST, ARCOT ROAD KODAMBAKAM, ARUMBAKKAM, ASCENDAS TARAMANI, AYANAVARAM, AYYAPPANTHANGAL, BESANT NAGAR CHENNAI, CHENNAI - ANNA NAGAR, CHENNAI - ANNA NAGAR 3RD AVENUE, CHENNAI - ASHOK NAGAR, CHENNAI these branches have a locker storage facility.
+
+
+
+-- Kindly reach out to our customer care executive.
+Contact Us @924xx78159
+
